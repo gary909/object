@@ -19,4 +19,4 @@ var taxi = {
     }
 };
 
-console.log("I drive a " + taxi.make + " " + taxi.model + " that was built in " + taxi.year)
+console.log("I drive a " + taxi.make + " " + taxi.model + " that was built in " + taxi.year);
