@@ -29,3 +29,6 @@ for (var i = 0; i < dogs.length; i++) {
     }
     console.log("Dog: " + dogs[i].name + " is a " + size + " " + dogs[i].breed);
 }
+
+console.log(fido)
+console.log(fido.name)

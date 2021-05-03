@@ -6,3 +6,9 @@ _________________________________________________
 object.html -> create an object with object literals
 
 ![obect](object.png)
+
+_________________________________________________
+
+dog.html -> create an object with object literals
+
+![obect](dog.png)
