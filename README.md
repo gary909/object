@@ -12,3 +12,9 @@ _________________________________________________
 dog.html -> create an object with object literals
 
 ![obect](dog.png)
+
+_________________________________________________
+
+coffee.html -> Contructors with methods
+
+![Contructors with methods](coffee.png)
