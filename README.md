@@ -24,3 +24,9 @@ _________________________________________________
 cars.html -> Contructors with object literal
 
 ![Contructors with object literal](car.png)
+
+_________________________________________________
+
+carDog.html -> Combined code to see results
+
+![Combined code to see results](carDog.png)
