@@ -30,3 +30,9 @@ _________________________________________________
 carDog.html -> Combined code to see results
 
 ![Combined code to see results](carDog.png)
+
+_________________________________________________
+
+dogCatcher.html -> More code
+
+![dogCatcher image](dogCatcher.png)

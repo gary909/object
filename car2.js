@@ -35,6 +35,10 @@ var cadiParams = {
 
 var cadi = new Car(cadiParams);
 
+if (cadi instanceof Car) {
+    console.log("Congrats, it's a Car!");
+};
+
 // var chevy = new Car("Chevy", "Bel Air", 1957, "red", 2, false, 1021);
 // var cadi = new Car("GM", "Cadillac", 1955, "tan", 5, false, 12892);
 // var taxi = new Car("Webville Motors", "Taxi", 1955, "yellow", 4, false, 281241);
