@@ -18,3 +18,9 @@ _________________________________________________
 coffee.html -> Contructors with methods
 
 ![Contructors with methods](coffee.png)
+
+_________________________________________________
+
+cars.html -> Contructors with object literal
+
+![Contructors with object literal](car.png)
