@@ -36,3 +36,9 @@ _________________________________________________
 dogCatcher.html -> More code
 
 ![dogCatcher image](dogCatcher.png)
+
+_________________________________________________
+
+JSconst.html -> playing with built in JS functions/objects
+
+![JSconst image](JSconst.png)
